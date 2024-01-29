@@ -33,7 +33,7 @@
 
 ### :woman_technologist: About Me :  
   
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nebraska, USA.  I currently live in the Phoenix area.
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nebraska, USA.  
   
   - :telescope: I’m working as a Software Engineer and contributing to the frontend and backend for building applications.
 
